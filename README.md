@@ -19,12 +19,3 @@ This app supports **Create**, **Update**, **Delete**, and **Persistent Storage**
 - JavaScript
 
 ---
-
-## 📂 Folder Structure
-
-todo-app/
-│
-├── index.html # Main HTML structure
-├── style.css # App styling
-├── script.js # To-Do logic with local storage
-└── README.md # Project overview
